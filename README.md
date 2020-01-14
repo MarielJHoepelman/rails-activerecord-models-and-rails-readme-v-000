@@ -271,7 +271,7 @@ understanding of Active Record models in Rails. Active Record is a powerful tool
 that enables developers to focus on the logic of their applications while
 streamlining processes such as connecting to the database, running queries, and
 much more.
-
+.
 <p class='util--hide'>View <a href='https://learn.co/lessons/rails-activerecord-models-and-rails-readme'>Active Record Models and Rails</a> on Learn.co and start learning to code for free.</p>
 
 [scopes]: http://api.rubyonrails.org/classes/ActiveRecord/Scoping/Named/ClassMethods.html
